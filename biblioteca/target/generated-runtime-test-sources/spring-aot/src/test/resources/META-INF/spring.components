@@ -1,0 +1,7 @@
+#
+#Mon Jan 09 01:02:28 ART 2023
+com.alex3d.biblioteca.controller.HealthCheckController=org.springframework.stereotype.Component
+com.alex3d.biblioteca.model.Biblioteca=org.springframework.stereotype.Component
+com.alex3d.biblioteca.controller.BibliotecaController=org.springframework.stereotype.Component
+com.alex3d.biblioteca.services.BibliotecaService=org.springframework.stereotype.Component
+com.alex3d.biblioteca.BibliotecaApplication=org.springframework.stereotype.Component,org.springframework.boot.SpringBootConfiguration

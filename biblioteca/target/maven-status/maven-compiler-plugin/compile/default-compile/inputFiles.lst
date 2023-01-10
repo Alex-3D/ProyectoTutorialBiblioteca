@@ -1,0 +1,12 @@
+/home/alejandro/Mis Proyectos/biblioteca/src/main/java/com/alex3d/biblioteca/BibliotecaApplication.java
+/home/alejandro/Mis Proyectos/biblioteca/src/main/java/com/alex3d/biblioteca/model/InfoLibro.java
+/home/alejandro/Mis Proyectos/biblioteca/src/main/java/com/alex3d/biblioteca/model/Libro.java
+/home/alejandro/Mis Proyectos/biblioteca/src/main/java/com/alex3d/biblioteca/model/Biblioteca.java
+/home/alejandro/Mis Proyectos/biblioteca/src/main/java/com/alex3d/biblioteca/model/Credencial.java
+/home/alejandro/Mis Proyectos/biblioteca/src/main/java/com/alex3d/biblioteca/model/commons/enums/Opcion.java
+/home/alejandro/Mis Proyectos/biblioteca/src/main/java/com/alex3d/biblioteca/controller/BibliotecaController.java
+/home/alejandro/Mis Proyectos/biblioteca/src/main/java/com/alex3d/biblioteca/controller/HealthCheckController.java
+/home/alejandro/Mis Proyectos/biblioteca/src/main/java/com/alex3d/biblioteca/model/excepciones/LibroException.java
+/home/alejandro/Mis Proyectos/biblioteca/src/main/java/com/alex3d/biblioteca/model/commons/RequestDto.java
+/home/alejandro/Mis Proyectos/biblioteca/src/main/java/com/alex3d/biblioteca/model/excepciones/CredencialException.java
+/home/alejandro/Mis Proyectos/biblioteca/src/main/java/com/alex3d/biblioteca/services/BibliotecaService.java
